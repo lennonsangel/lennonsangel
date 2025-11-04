@@ -1,5 +1,5 @@
-## Hi there 👋
-
+[](https://komarev.com/ghpvc/?username=lennonsangel)
+<img width="1000" height="1000" alt="3" src="https://64.media.tumblr.com/32d22c25d6db7c7420b771b8a64c2389/92f6f7c100cc8f93-4e/s500x750/dea761dc8f106abcfe73bc12bc96a07412cdd8dc.gifv" />
 <!--
 **lennonsangel/lennonsangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
